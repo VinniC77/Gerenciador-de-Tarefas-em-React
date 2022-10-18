@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Consulta Médica",
+      "day": "05 de Fev, às 14:30hs",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Reunião Escolar",
+      "day": "06 de Fev, às 13:30hs",
+      "reminder": true
+    },
+    {
+      "text": "Ler um livro",
+      "day": "Terça-feira, às 21hs",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
